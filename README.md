@@ -1,12 +1,12 @@
 # Setting-up-a-SIEM-using-Splunk
 
-**Objective**
+## Objective
 
 The objective of this project was to gain hands-on experience with a full end-to-end Splunk SIEM workflow by completing a comprehensive 7-part tutorial. The focus was on ingesting log data, performing structured searches using SPL, enriching events with lookups, and creating actionable reports and dashboards.
 
 This lab simulates how raw log data is transformed into meaningful security and operational insights, closely resembling real-world SIEM usage in SOC environments.
 
-**Skills Learned**
+## Skills Learned
 
 - Practical understanding of SIEM architecture and workflows
 - Hands-on experience with log ingestion and data onboarding
@@ -17,7 +17,7 @@ This lab simulates how raw log data is transformed into meaningful security and 
 - Creating reports, dashboards, and visualizations
 - Improved troubleshooting and iterative problem-solving skills
 
-**Tools Used**
+## Tools Used
 
 - *Splunk (Search & Reporting App)* - log ingestion, search, reporting, and dashboards
 - *Splunk Add Data Wizard* - onboarding tutorial datasets
@@ -26,7 +26,7 @@ This lab simulates how raw log data is transformed into meaningful security and 
 - *Cryptomator* - secure storage of raw project artifacts and screenshots
 - *Microsoft Word / PDF* - offline documentation and evidence capture
 
-**Project Steps & Evidence**
+## Project Steps & Evidence
 
 Each screenshot included below represents a key milestone in the project.  
 A full step-by-step screenshot archive (56 images) is maintained offline.
@@ -98,7 +98,7 @@ A full step-by-step screenshot archive (56 images) is maintained offline.
 <img width="1919" height="908" alt="Screenshot 2025-12-24 231611" src="https://github.com/user-attachments/assets/64a467f8-9a63-44a0-9112-2d21303a479c" />
 <img width="1919" height="574" alt="Screenshot 2025-12-24 233848" src="https://github.com/user-attachments/assets/9becc4bc-cf23-4dd9-bc4f-1907888577b7" />
 
-**Key Takeaways**
+## Key Takeaways
 
 - SIEM work is iterative, not linear - mistakes require re-ingestion and reconfiguration
 - Proper SPL construction is essential for accurate detection and reporting
@@ -109,12 +109,12 @@ A full step-by-step screenshot archive (56 images) is maintained offline.
   <img width="1890" height="814" alt="Screenshot 2025-12-24 235024" src="https://github.com/user-attachments/assets/3a4c85e8-6eb5-4fef-aa8b-3f451ece70d0" />
 
 
-**Artifacts & Documentation**
+## Artifacts & Documentation
 
 - 📄 Offline step-by-step execution notes
 - 📑 Compiled PDF with 56 sequential screenshots
 - 🔐 All raw artifacts securely stored using encryption
 
-**Disclaimer**
+## Disclaimer
 
 This project was completed for educational purposes only using a publicly available Splunk tutorial dataset. No real user or production data was involved.
